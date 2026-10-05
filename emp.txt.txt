@@ -1,3 +1,0 @@
-eno ename
-1,Hema
-2,Santu
